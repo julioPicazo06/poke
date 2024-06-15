@@ -1,0 +1,9 @@
+html , body {
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color : hsl(0, 87%, 68%);
+}
